@@ -7,7 +7,7 @@ const Home = () => {
     <div>
         <HomeNav/>
         <Box h='80vh' display="flex" justifyContent="center" alignItems='center' color={"green"} fontSize="40px" fontWeight="600">
-            Welcome to Masai Restaurant
+            Welcome to Restaurant
         </Box>
     </div>
   )
